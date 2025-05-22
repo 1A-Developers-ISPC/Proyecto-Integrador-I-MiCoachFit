@@ -49,7 +49,7 @@
 
 <br/>
 <div align="center">
-  <img src="img/logo-1A-Dev/logo-color-1A-Dev.png" alt="Logo 1A-Developers" width="160"/>
+  <img src="img/logo-1A-Dev/logo-color-1A-Dev.png" alt="Logo 1A-Developers" width="250"/>
 </div>
 
 
