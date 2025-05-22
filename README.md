@@ -6,7 +6,7 @@
 
 ## **Gestión de Horarios de Clases:**
 
--Creación de clases grupales con detalles como tipo de entrenamiento, duración, lugar, y capacidad máxima de alumnos.
+- Creación de clases grupales con detalles como tipo de entrenamiento, duración, lugar, y capacidad máxima de alumnos.
 
 - Definición de días y horarios de las clases.
 
@@ -41,19 +41,19 @@
 
 - Personas que asisten a las clases y reservarán sus turnos a través de la plataforma/app.
 
-## **En el futuro, se podrían expandir las funcionalidades incluyendo:**##
+## **En el futuro, se podrían expandir las funcionalidades incluyendo:**
 ## **Estadísticas de Asistencia:**
 
 - Para que el entrenador pueda analizar la asistencia a sus clases.
 
 ## **Integración de Pagos:** 
 
--Para que los alumnos puedan pagar las clases directamente a través de la plataforma.
+- Para que los alumnos puedan pagar las clases directamente a través de la plataforma.
 
 ## **Integrar mensajería de difusión:** 
 
--Envío de mensajes a grupos de alumnos de manera simultánea.
+- Envío de mensajes a grupos de alumnos de manera simultánea.
 
 ## **Servicios asincrónicos:** 
 
--Sección para atender a alumnos de manera virtual.
+- Sección para atender a alumnos de manera virtual.
