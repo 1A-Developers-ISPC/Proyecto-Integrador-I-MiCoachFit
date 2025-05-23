@@ -33,14 +33,18 @@
 - Configuración de su información personal y profesional.
 - Posibilidad de personalizar la presentación de sus clases.
 
+<br/>
+
+---
 
 <br/>
+
 <div align="center">
-  <img src="img/logo-1A-Dev/logo-color-1A-Dev.png" alt="Logo 1A-Developers" width="250"/>
+  <img src="img/logo-1A-Dev/logo-blanco-1A-Dev.png" alt="Logo 1A-Developers" width="250"/>
 </div>
 
 
-## 👥 Integrantes del team
+## 👥 Integrantes del Team
 
 Somos el grupo de trabajo **1A-Developers**, estudiantes del primer año de la Tecnicatura Superior en Desarrollo Web y Aplicaciones Móviles del Instituto Superior Politécnico Córdoba.
 
