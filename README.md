@@ -1,4 +1,15 @@
 # Proyecto Integrador I
+## **Funcionalidades Futuras:**
+
+En el futuro, se podrian expandir las funcionalidades incluyendo:
+
+-Estadisticas de asistencia: Para que el entrenador pueda analizar la asistencia de sus clases
+
+-Integración de Pagos: Para que los alumnos puedan pagar las clases directamente a través de la plataforma 
+
+-Integración mensajería de difusión:Envio de mensajes a grupos de alumnos de manera simultánea 
+
+-Servicios asincrónicos: Sección para atender a alumnos de manera virtual 
 
 ## **Posibles Funcionalidades o Áreas de Enfoque Inicial:**
 
@@ -28,6 +39,15 @@
 
 - Mensajes de notificación o alerta para dar aviso de eventualidades (clases suspendidas, promociones, otros)
 
+## Usuarios
+
+-Usuarios Primarios: Entrenadores personales que ofrecen clases grupales
+(En gimnasios, Estudios propios, Aire libre, Etc.) y que buscan limitar
+el numero de participante por clases para un mejor seguimiento.
+
+-Usuarios Secundarios: Personas que asisten a la clases y reservaran sus
+turnos a través de la plataforma/app.
+
 ## **Perfil del Entrenador:**
 
 - Configuración de su información personal y profesional.
@@ -55,10 +75,4 @@ Somos el grupo de trabajo **1A-Developers**, estudiantes del primer año de la T
 * 👩🏽‍💻**Rocio Briz** - [Developer] - https://github.com//Anabelro94
 
 <br/>
-
----
-
-
-
-
 
