@@ -1,5 +1,5 @@
 # Proyecto Integrador I
-## **FUNCIONALIDADES FUTURAS:**
+## **Funcionalidades Futuras:**
 
 En el futuro, se podrian expandir las funcionalidades incluyendo:
 
