@@ -1,4 +1,15 @@
 # Proyecto Integrador I
+## **Funcionalidades Futuras:**
+
+En el futuro, se podrian expandir las funcionalidades incluyendo:
+
+-Estadisticas de asistencia: Para que el entrenador pueda analizar la asistencia de sus clases
+
+-Integración de Pagos: Para que los alumnos puedan pagar las clases directamente a través de la plataforma 
+
+-Integración mensajería de difusión:Envio de mensajes a grupos de alumnos de manera simultánea 
+
+-Servicios asincrónicos: Sección para atender a alumnos de manera virtual 
 
 ## **Posibles Funcionalidades o Áreas de Enfoque Inicial:**
 
