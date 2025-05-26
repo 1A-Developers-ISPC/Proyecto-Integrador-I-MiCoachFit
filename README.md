@@ -1,5 +1,5 @@
 # Proyecto-Integrador-I
-## Usuarios
+## **Usuarios**
 
 -Usuarios Primarios: Entrenadores personales que ofrecen clases grupales
 (En gimnasios, Estudios propios, Aire libre, Etc.) y que buscan limitar
