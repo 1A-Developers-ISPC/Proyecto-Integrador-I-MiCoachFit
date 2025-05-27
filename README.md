@@ -1,3 +1,13 @@
+## **Título del Proyecto (Tentativo): “MiCoachFit” **
+
+<img src="/img/logo-MiCoachFit/logo-MiCoachFit-color.png">
+
+## **Breve Descripción de la Idea:**
+
+MiCoachFit es una aplicación web diseñada para facilitar a los entrenadores personales la gestión de la reserva de turnos para sus clases grupales, permitiéndoles establecer límites de asistencia para garantizar un seguimiento personalizado. La visión principal es proporcionar a los entrenadores una herramienta intuitiva para organizar sus horarios, controlar la capacidad de sus clases y ofrecer a sus clientes una forma sencilla de reservar su lugar.
+El problema que busca resolver es la dificultad que enfrentan los entrenadores personales al coordinar múltiples clientes en clases grupales, asegurando a la vez un número limitado de participantes para poder brindar una atención individualizada. MiCoachFit optimiza este proceso, permitiendo a los entrenadores definir la capacidad máxima de cada clase y a los alumnos reservar su turno de manera autónoma, brindando una gestión de horarios y asistencia.
+
+
 ## **Funcionalidades Futuras:**
 
 En el futuro, se podrian expandir las funcionalidades incluyendo:
