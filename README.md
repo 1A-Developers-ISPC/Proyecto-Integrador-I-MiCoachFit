@@ -1,4 +1,3 @@
-# Proyecto Integrador I
 ## **Funcionalidades Futuras:**
 
 En el futuro, se podrian expandir las funcionalidades incluyendo:
@@ -71,4 +70,3 @@ Somos el grupo de trabajo **1A-Developers**, estudiantes del primer año de la T
 * 👩🏽‍💻**Rocio Briz** - [Developer] - https://github.com//Anabelro94
 
 <br/>
-
