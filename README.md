@@ -1,15 +1,10 @@
 </br>
-</br>
 
 <div align=center>
-<img src="/img/logo-MiCoachFit/logo-MiCoachFit-color.png" alt="Logo MiCoachFit" widht="300">
+<img src="/img/logo-MiCoachFit/logo-MiCoachFit-color.png" alt="Logo MiCoachFit" width="400">
 </div>
 
 </br>
-</br>
-
-**MiCoachFit: Gestor de Clases Grupales**
-
 </br>
 
 ## 💡 **Breve Descripción de la Idea**
