@@ -46,14 +46,6 @@ Las funcionalidades se centrarán principalmente en las necesidades del entrenad
   - Posibilidad de comunicarse con alumnos (mensajes integrando con otros medios como whatsapp)
 
   - Mensajes de notificación o alerta para dar aviso de eventualidades (clases suspendidas, promociones, otros)
- 
-  </br>
- 
- * **Perfil del Entrenador**
-
-   - Configuración de su información personal y profesional.
-     
-   - Posibilidad de personalizar la presentación de sus clases.
 
   </br>
 
@@ -66,6 +58,13 @@ el numero de participante por clases para un mejor seguimiento.
 
 * **Usuarios Secundarios:** Personas que asisten a la clases y reservaran sus
 turnos a través de la plataforma/app.
+
+</br>
+
+## **Perfil del Entrenador:**
+
+- Configuración de su información personal y profesional.
+- Posibilidad de personalizar la presentación de sus clases.
 
 </br>
 
