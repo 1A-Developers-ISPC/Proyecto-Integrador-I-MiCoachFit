@@ -76,6 +76,7 @@ class MenuSistema:
             print("2- Salir")
             opcion = input("Seleccione una opcion: ")
             if opcion == "1":
+                print("--- Datos Personales de Usuario---")
                 print(f"Nombre: {usuario.nombre} {usuario.apellido}")
                 print(f"Teléfono: {usuario.telefono}")
                 print(f"Email: {usuario.email}")
