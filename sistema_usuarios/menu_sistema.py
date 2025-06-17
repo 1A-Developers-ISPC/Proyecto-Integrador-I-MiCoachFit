@@ -78,6 +78,7 @@ class MenuSistema:
             if opcion == "1":
                 print("--- Datos Personales de Usuario---")
                 print(f"Nombre: {usuario.nombre} {usuario.apellido}")
+                print(f"Nombre Usuario: {usuario.nombre_usuario}")
                 print(f"Teléfono: {usuario.telefono}")
                 print(f"Email: {usuario.email}")
             elif opcion == "2":
