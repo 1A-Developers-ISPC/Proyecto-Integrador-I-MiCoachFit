@@ -5,6 +5,7 @@
 </div>
 
 </br>
+Cambio inicial por Maximino Moyano de equipo 1ADevelopers
 </br>
 
 ## 💡 **Breve Descripción de la Idea**
