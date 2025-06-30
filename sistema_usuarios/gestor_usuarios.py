@@ -34,7 +34,7 @@ class GestorUsuarios:
 
         nuevo = Usuario(nombre, apellido, nombre_usuario, telefono, email, contrasena, rol)
         self.usuarios.append(nuevo)
-        print("✅ Usuario registrado con éxito.")
+        #print("✅ Usuario registrado con éxito.")
 
     def eliminar_usuario(self, nombre_usuario):
         usuario = self.buscar_usuario(nombre_usuario)
